@@ -1,0 +1,59 @@
+body {
+  background: #D81D4E;
+}
+header {
+  position: relative;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  box-shadow: 0 5px 0 #f1f1f1;
+}
+.block {
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+.logo { height: 70px; }
+.banner { text-align: center; }
+.banner-text {
+  color: white;
+  letter-spacing: -0.05em;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 36px;
+}
+.exercism {
+  font-family: "Source Code Pro", monospace;
+}
+.twenty-four-pr {
+  font-family: "Dosis", sans-serif;
+}
+.banner a:hover { text-decoration: none; }
+.intro-block {
+  text-align: center;
+  padding: 30px;
+  font-size: 16px;
+}
+.intro-block h4 {
+  text-transform: uppercase;
+  margin: 10px 0 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.intro-block p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 19px;
+}
+.section-title {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #cacaca;
+  font-family: "Roboto", sans-serif;
+}
+.section-title a { text-decoration: none; color: #333; }
